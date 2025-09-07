@@ -1,4 +1,3 @@
-// all_check_bypass_working.js
 Java.perform(function () {
     console.log("[*] all_check_bypass_working.js starting...");
 
